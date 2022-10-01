@@ -1,1 +1,3 @@
-# GoIt
+# Homework description
+
+Opis projektu
